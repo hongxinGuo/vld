@@ -2,7 +2,7 @@
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
   <assemblyIdentity type="win32" 
                     name="VLDTeam.VLD.VLD" 
-                    version="2.5.2.0" 
+                    version="2.5.4.0" 
                     processorArchitecture="*" 
                     publicKeyToken="0000000000000000"
   />

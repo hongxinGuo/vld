@@ -1,7 +1,11 @@
-Visual Leak Detector (VLD) Version 2.5.3
+Visual Leak Detector (VLD) Version 2.5.4
 
 
   Change Log / Release Notes
+
+2.5.4 (25 November 2022)
+----------------------------
+  + Migrate to Visual Studio 2022
 
 2.5.3 (20 March 2019)
 ----------------------------
@@ -14,7 +18,7 @@ Visual Leak Detector (VLD) Version 2.5.3
 
   Bugs Fixed:
   + Fix #10586 VLD interferes with GetLastError().
-  + Fix GitHub issue 38, Installation of 2.5.1 on 32-bit Windows 7 fails 
+  + Fix GitHub issue 38, Installation of 2.5.1 on 32-bit Windows 7 fails
 
 2.5.1 (30 January 2017)
 ----------------------------
@@ -564,15 +568,3 @@ Visual Leak Detector (VLD) Version 2.5.3
 0.9a beta (12 March 2005)
 -------------------------
   Initial Public Release
-
-
-
-
-
-
-
-
-
-
-
-
